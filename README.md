@@ -23,5 +23,5 @@
 
 ## Languages  and Tools:
 
-https://github-readme-stats.vercel.app/api?AliceCullen-html={AliceCullen-html}
+https://github-readme-stats.vercel.app/api?username={AliceCullen-html}
 
