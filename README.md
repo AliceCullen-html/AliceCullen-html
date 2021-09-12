@@ -14,6 +14,8 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
+⚡ Fun fact I am new in developement
+
 ## About me
 
  <div>
