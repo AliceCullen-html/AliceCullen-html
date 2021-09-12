@@ -37,7 +37,8 @@
   
 </div>
 
-![Snake animation](https://github.com/AliceCullen-html/AliceCullen-html/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/AliceCullen-html)
+ 
 
 
 
