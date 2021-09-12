@@ -17,8 +17,7 @@
 ## About me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-vinicius-18762718a/)]( https://www.linkedin.com/in/marcus-vinicius-18762718a/) 
-
+<a href="https://www.linkedin.com/in/marcus-vinicius-18762718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Languages  and Tools:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dracula)
