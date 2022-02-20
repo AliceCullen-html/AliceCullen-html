@@ -10,9 +10,9 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning JAVA.
+:books: I’m currently learning Python for data science projetcs.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: create a new project and find a new job.
 
 ⚡ Fun fact I am new in developement
 
