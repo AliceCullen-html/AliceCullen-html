@@ -10,7 +10,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Python for data science projetcs.
+:books: I’m currently learning front-end to create amazing projects on the web.
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
