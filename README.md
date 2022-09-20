@@ -20,7 +20,7 @@
 
  <div>
 <a href="https://www.linkedin.com/in/marcus-cunha-18762718a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/mv.cullen0/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 ## Languages  and Tools:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
