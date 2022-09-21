@@ -23,9 +23,22 @@
 
 
 ## Languages  and Tools:
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCullen-html&layout=compact&langs_count=7&theme=dracula"/>
+
+ <div align="center" style="display-flex">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceCullen-html&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  
 </div>
+
+<br></br>
+<div align="center" style="display-flex; padding: 20px;">
+ <a href="https://github.com/AliceCullen-html>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+ 
+  
+</div>
+
 
 <div style="display: inline_block"><br>
    <a href="https://github.com/AliceCullen-html">
