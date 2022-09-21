@@ -1,20 +1,17 @@
-# Welcome!
 
+
+<h1 align="center">Hi 👋, I'm Marcus Cunha</h1>
+<h3 align="center">I'm a Python Developer</h3>
  
 
-## I'm Marcus Cunha!
 
- 
+- :house_with_garden: I’m from Brazil.
 
-:computer: I'm Python Dev!
+- :books: I am currently learning python to create data analysis projects.
 
-:house_with_garden: I’m from Brazil.
+- :outbox_tray: 2022 Goals: create a new project and find a new job.
 
-:books: I am currently learning python to create data analysis projects.
-
-:outbox_tray: 2022 Goals: create a new project and find a new job.
-
-⚡ Fun fact I am new in developement
+- ⚡ Fun fact I am new in developement
 
 ## About me
 
@@ -34,18 +31,22 @@
 <div align="center" style="display-flex; padding: 20px;">
  <a href="https://github.com/AliceCullen-html>
  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
- 
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCullen-html&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+                                                                                                                                                   
+ <br></br>                                                                                                                                                  
 
 
-<div style="display: inline_block"><br>
+ <div align="center" style="display-flex" style="margin: 2rem"><br>
    <a href="https://github.com/AliceCullen-html">
-     <img align="center" alt="Alice-PY" height="30" width="90" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
- <img align="center" alt="Alice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Alice-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="AlicePy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">              <img align="center" alt="Alice-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+                                 
+<img align="center" alt="Alice-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Alice-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
 
 
   
