@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marcus Cunha</h1>
-<h3 align="center">I'm a Python Developer</h3>
+<h3 align="center">I'm a Python and VBA Developer</h3>
  
 
 
