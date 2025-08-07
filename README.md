@@ -9,7 +9,7 @@
 
 - :books: I am currently learning python to create data analysis projects.
 
-- :outbox_tray: 2023 Goals: create a new project and find a new job.
+- :outbox_tray: 2025 Goals: create a new project and find a new job.
 
 - ⚡ Fun fact I am new in developement
 
