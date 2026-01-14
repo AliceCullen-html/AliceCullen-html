@@ -34,16 +34,13 @@ Sou um desenvolvedor brasileiro focado em transformar dados em insights e automa
 ---
 
 
-## 📊 Estatísticas do GitHub
+## 🐍 Jogo da Cobrinha (Contribuições)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCullen-html&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ## 📫 Vamos nos conectar?
