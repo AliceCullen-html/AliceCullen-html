@@ -33,7 +33,7 @@ Sou um desenvolvedor brasileiro focado em transformar dados em insights e automa
 
 ---
 
-## 📊 Estatísticas do GitHub
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
