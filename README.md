@@ -1,65 +1,48 @@
+# Olá 👋, eu sou o Marcus Santos
 
+### Python & VBA Developer | Apaixonado por Automação e Análise de Dados
 
-<h1 align="center">Hi 👋, I'm Marcus Santos</h1>
-<h3 align="center">I'm a Python and VBA Developer</h3>
- 
+Sou um desenvolvedor brasileiro focado em transformar dados em insights e automatizar processos repetitivos. Atualmente, estou aprofundando meus conhecimentos em Python para criar projetos de análise de dados mais robustos e escaláveis.
 
+---
 
-- :house_with_garden: I’m from Brazil.
+## 🚀 Sobre Mim
 
-- :books: I am currently learning python to create data analysis projects.
+- 🏠 **Origem:** Brasil
+- 📚 **Foco Atual:** Python para Análise de Dados (Pandas, NumPy, Matplotlib)
+- 🎯 **Objetivos para 2025:** Desenvolver um portfólio de impacto e conquistar uma nova oportunidade no mercado tech.
+- ⚡ **Curiosidade:** Comecei recentemente no desenvolvimento e estou evoluindo rápido através da prática constante!
 
-- :outbox_tray: 2025 Goals: create a new project and find a new job.
+---
 
-- ⚡ Fun fact I am new in developement
+## 🛠️ Tecnologias e Ferramentas
 
-## About me
+### Linguagens
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/VBA-004880?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
 
- <div>
-<a href="https://www.linkedin.com/in/marcus-cunha-18762718a/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Frontend & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
+---
 
-## Languages  and Tools:
+## 📊 Estatísticas do GitHub
 
- <div align="center" style="display-flex">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliceCullen-html&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
-  
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-<br></br>
-<div align="center" style="display-flex; padding: 20px;">
- <a href="https://github.com/AliceCullen-html>
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceCullen-html&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceCullen-html&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-                                                                                                                                                   
- <br></br>                                                                                                                                                  
+---
 
+## 📫 Vamos nos conectar?
 
- <div align="center" style="display-flex" style="margin: 2rem"><br>
-   <a href="https://github.com/AliceCullen-html">
-    <img align="center" alt="AlicePy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">              <img align="center" alt="Alice-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-                                 
-<img align="center" alt="Alice-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Alice-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-
-
-  
-</div>
-
-  ![Snake animation](https://github.com/AliceCullen-html/AliceCullen-html/blob/output/github-contribution-grid-snake.svg)
- 
-
-
-
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK-DO-SEU-LINKEDIN-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
