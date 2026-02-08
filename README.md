@@ -10,7 +10,7 @@ Sou um desenvolvedor brasileiro focado em transformar dados em insights e automa
 
 - 🏠 **Origem:** Brasil
 - 📚 **Foco Atual:** Python para Análise de Dados (Pandas, NumPy, Matplotlib)
-- 🎯 **Objetivos para 2025:** Desenvolver um portfólio de impacto e conquistar uma nova oportunidade no mercado tech.
+- 🎯 **Objetivos para 2026:** Desenvolver um portfólio de impacto e conquistar uma nova oportunidade no mercado tech.
 - ⚡ **Curiosidade:** Comecei recentemente no desenvolvimento e estou evoluindo rápido através da prática constante!
 
 ---
