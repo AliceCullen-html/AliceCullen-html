@@ -25,7 +25,7 @@ Transformo dados públicos e operacionais em decisão: dashboards, automações 
 - Boletim mensal automático, com todos os números inseridos e verificados pelo programa
 
 [![Site](https://img.shields.io/badge/graaos.cloud-abrir%20o%20hub-0b1f6b?style=for-the-badge)](https://radar.graaos.cloud)
-[![Repositório](https://img.shields.io/badge/GitHub-c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/AliceCullen-html/graaos)
+[![Repositório](https://img.shields.io/badge/GitHub-c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/mvsantos-dev/graaos)
 
 ---
 
@@ -68,9 +68,9 @@ Transformo dados públicos e operacionais em decisão: dashboards, automações 
 ## 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da cobrinha comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/AliceCullen-html/AliceCullen-html/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mvsantos-dev/mvsantos-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mvsantos-dev/mvsantos-dev/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/mvsantos-dev/mvsantos-dev/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
