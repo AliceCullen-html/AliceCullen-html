@@ -8,18 +8,24 @@ Transformo dados públicos e operacionais em decisão: dashboards, automações 
 
 ## 🛰️ Projeto em destaque
 
-### [Radar de Importação de Fertilizantes](https://radar.graaos.cloud)
+### [Graaos](https://radar.graaos.cloud)
 
-De onde vem o adubo do Brasil, por qual porto entra, quanto custa e quanto de soja paga cada tonelada. Open source, só com dados públicos (Comex Stat/MDIC, Banco Mundial e BCB), atualizado automaticamente todo mês.
+**Hub de inteligência de mercado do agro e da logística, com dados públicos.** Open source, atualizado automaticamente todo mês, com fontes oficiais (Comex Stat/MDIC, Banco Mundial e BCB).
 
+**Módulos**
+- **Fertilizantes** (no ar): de onde vem o adubo do Brasil, por qual porto entra, quanto custa e quanto de soja paga cada tonelada
+- **Logística portuária** (em construção): movimentação e espera de navios por porto
+- **Grãos** (planejado): exportação, safra e preços
+
+**Por dentro**
 - Pipeline em Python com ingestão incremental, testes automatizados e conferência dos totais com a fonte
 - Preço por tonelada, frete por rota, concentração de fornecedores (HHI) e relação de troca soja × fertilizante
 - Comparação com o preço internacional (Pink Sheet do Banco Mundial) e câmbio PTAX
 - Mapa de fluxos animado, de cada país de origem até o porto de chegada
-- Boletim mensal escrito por IA, com todos os números inseridos e verificados pelo programa
+- Boletim mensal automático, com todos os números inseridos e verificados pelo programa
 
-[![Site](https://img.shields.io/badge/radar.graaos.cloud-abrir%20o%20dashboard-0b1f6b?style=for-the-badge)](https://radar.graaos.cloud)
-[![Repositório](https://img.shields.io/badge/GitHub-c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/AliceCullen-html/radar-fertilizantes-br)
+[![Site](https://img.shields.io/badge/graaos.cloud-abrir%20o%20hub-0b1f6b?style=for-the-badge)](https://radar.graaos.cloud)
+[![Repositório](https://img.shields.io/badge/GitHub-c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/AliceCullen-html/graaos)
 
 ---
 
